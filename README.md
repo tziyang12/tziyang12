@@ -4,9 +4,11 @@
 
 I'm Tzi Yang, a Computer Science student bursting with energy and a real passion for anything data-related and fin-tech! 🌟 I'm currently pursuing my degree in Computer Science and Business. With a solid grasp of programming and a proactive mindset, I'm all about solving problems and diving headfirst into new concepts. Currently on the lookout for an internship that'll help me grow into a top-notch professional.
 
-Here's a sneak peek into what I bring to the table:
+Here's a taste of what I bring to the table:
 
-I love playing around with data using Python and Matplotlib to create awesome visualizations. Numbers and stats? Bring it on! I'm all about understanding how things work under the hood. From databases to troubleshooting, I've got a knack for diving deep into the tech stuff. Plus, I'm a whiz at math, data structures, algorithms, and keeping networks secure. But wait, there's more!
+I thrive on building beautiful and functional websites using Python, JavaScript, HTML, and CSS.
+From crafting eye-catching layouts to ensuring seamless user experiences, I'm all about making the web come alive.
+I'm not just about the frontend – I've got backend skills too, with experience in SQL and database management.
 
 I'm not just about the tech stuff – I've got killer communication skills and love working with others. Whether it's brainstorming ideas or getting down to business, I'm all in for teamwork and collaboration. And here's the cherry on top:
 
