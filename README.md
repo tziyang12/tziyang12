@@ -12,7 +12,7 @@ I'm not just about the frontend – I've got backend skills too, with experience
 
 I'm not just about the tech stuff – I've got killer communication skills and love working with others. Whether it's brainstorming ideas or getting down to business, I'm all in for teamwork and collaboration. And here's the cherry on top:
 
-I'm always up for a challenge and love exploring new ideas. Curiosity is my middle name! When it comes to problem-solving, I'm your go-to person. I thrive on thinking outside the box and finding innovative solutions. Let's team up and make some magic happen! ✨</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/16JRh8ZvG0a37RHKUvbSOd8hxl5iiQxYG/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+I'm always up for a challenge and love exploring new ideas. Curiosity is my middle name! When it comes to problem-solving, I'm your go-to person. I thrive on thinking outside the box and finding innovative solutions. Let's team up and make some magic happen! ✨</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=tziyang12 alt=tziyang12 /> </p>
 
