@@ -13,7 +13,7 @@ I'm not just about the frontend – I've got backend skills too, with experience
 I'm not just about the tech stuff – I've got killer communication skills and love working with others. Whether it's brainstorming ideas or getting down to business, I'm all in for teamwork and collaboration. And here's the cherry on top:
 
 I'm always up for a challenge and love exploring new ideas. Curiosity is my middle name! When it comes to problem-solving, I'm your go-to person. I thrive on thinking outside the box and finding innovative solutions. Let's team up and make some magic happen! ✨</p>
-## Some of my Github Stats
+## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=tziyang12 alt=tziyang12 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tziyang12&show_icons=true&include_all_commits=true)](https://github.com/tziyang12/github-readme-stats)
