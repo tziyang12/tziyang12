@@ -17,7 +17,7 @@ I'm always up for a challenge and love exploring new ideas. Curiosity is my midd
 <p align=left> <img src=https://komarev.com/ghpvc/?username=tziyang12 alt=tziyang12 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tziyang12&show_icons=true&include_all_commits=true)](https://github.com/tziyang12/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tziyang12&layout=compact)](https://github.com/tziyang12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tziyang12&layout=compact&hide=jupyter%20notebook)](https://github.com/tziyang12/github-readme-stats)
 
 <!--
 **tziyang12/tziyang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
